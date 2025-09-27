@@ -10,9 +10,11 @@ dependencies = [
     "httpx>=0.28.1",
     "openai>=1.109.1",
     "pydantic>=2.11.9",
+    "pydantic-settings>=2.11.0",
     "pytest>=8.4.2",
     "pytest-asyncio>=1.2.0",
     "python-dotenv>=1.1.1",
     "sqlalchemy>=2.0.43",
+    "structlog>=25.4.0",
     "uvicorn[standard]>=0.37.0",
 ]
